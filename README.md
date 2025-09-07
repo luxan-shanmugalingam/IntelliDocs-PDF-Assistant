@@ -6,7 +6,7 @@ IntelliDocs is an intelligent web application that allows you to have conversati
 
 ### 🚀 Live Demo
 
-**[Link to your deployed Streamlit App URL here]**
+**https://intellidocs-pdf-assistant-v3j5wuohgyjvm2ex8fx2nd.streamlit.app/**
 
 ---
 
