@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repo-url]
+    git clone https://github.com/luxan-shanmugalingam/IntelliDocs-PDF-Assistant.git
     cd IntelliDocs-PDF-Assistant
     ```
 
